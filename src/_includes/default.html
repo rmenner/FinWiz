@@ -26,6 +26,12 @@
 
     {{ content | safe }}
 
+    {% if path == "home" %}
+
+    {% include "./partials/form.html" %}
+
+    {% endif %}
+
     {% include "./partials/footer.html" %}
 
     <script src="/static/js/alpine.js"></script>
