@@ -2,8 +2,32 @@
     <nav class="flex items-center justify-center lg:justify-between flex-wrap p-6 lg:px-0 container mx-auto" x-data="{ isOpen: false }" @keydown.escape="isOpen = false"  @click.away="isOpen = false">
         <!--Logo etc-->
         <div class="flex items-center">
-            <a href="/" class="text-indigo-500 font-bold text-lg">
-                Logo</a>
+            <a href="/" class="font-bold text-lg block w-52">
+                <svg id="Layer_2" data-name="Layer 2" class=" w-14" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 33.37 40.04">
+                    <defs>
+                      <style>
+                        .cls-1 {
+                          fill: url(#linear-gradient);
+                        }
+                  
+                        .cls-2 {
+                          fill: #a7a8af;
+                        }
+                      </style>
+                      <linearGradient id="linear-gradient" x1="0" y1="16.86" x2="32.58" y2="16.86" gradientUnits="userSpaceOnUse">
+                        <stop offset="0" stop-color="#507abd"/>
+                        <stop offset="1" stop-color="#2f499f"/>
+                      </linearGradient>
+                    </defs>
+                    <polygon class="cls-1" points="0 27.07 11.77 14.9 16.31 17.17 24.02 8.25 20.23 5.01 20.81 4.83 32.49 2.53 32.58 2.77 32.04 14.91 28.1 11.79 17.74 23.71 17.28 23.77 13.11 21.56 12.77 21.56 3.48 31.19 0 27.07"/>
+                    <g>
+                      <polygon class="cls-2" points="24.49 39.38 24.49 20 28.99 14.77 29.24 39.38 24.49 39.38"/>
+                      <path class="cls-2" d="M16.03,39.48h-4.85v-13.11s2.43-2.46,2.43-2.46c.37.2,1.93,1.27,2.43,1.7v13.87Z"/>
+                      <polygon class="cls-2" points="18.22 39.38 18.26 25.44 22.93 21.11 22.97 39.38 18.22 39.38"/>
+                      <polygon class="cls-2" points="4.35 39.48 4.36 32.86 9.03 28.06 9.1 39.48 4.35 39.48"/>
+                    </g>
+                  </svg>
+                </a>
         </div>
 
         <!--Toggle button (hidden on large screens)-->

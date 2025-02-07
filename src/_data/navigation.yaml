@@ -1,10 +1,10 @@
 ---
 items:
-  - text: Menu One
-    url: "#"
-  - text: Menu Two
-    url: "#"
-  - text: Menu Three
-    url: "#"
-  - text: Blog
-    url: "/blog"
+  - text: Budgeting
+    url: "/posts/budgeting"
+  - text: Investing
+    url: "/posts/investing"
+  - text: Savings
+    url: "/posts/savings"
+  - text: Managing Credit
+    url: "/posts/managing-credit"
