@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.dev/svgjs" width="1000" height="1000"><style>
+    #light-icon {
+      display: inline;
+    }
+    #dark-icon {
+      display: none;
+    }
+
+    @media (prefers-color-scheme: dark) {
+      #light-icon {
+        display: none;
+      }
+      #dark-icon {
+        display: inline;
+      }
+    }
+  </style><g id="light-icon"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.dev/svgjs" width="1000" height="1000"><g clip-path="url(#SvgjsClipPath1025)"><rect width="1000" height="1000" fill="#ffffff"></rect><g transform="matrix(19.980019980019982,0,0,19.980019980019982,166.63336663336662,99.99999999999994)"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.dev/svgjs" width="33.37" height="40.04"><svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 33.37 40.04">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        fill: #a7a8af;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0" y1="16.86" x2="32.58" y2="16.86" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#507abd"></stop>
+      <stop offset="1" stop-color="#2f499f"></stop>
+    </linearGradient>
+  <clipPath id="SvgjsClipPath1025"><rect width="1000" height="1000" x="0" y="0" rx="350" ry="350"></rect></clipPath></defs>
+  <polygon class="cls-1" points="0 27.07 11.77 14.9 16.31 17.17 24.02 8.25 20.23 5.01 20.81 4.83 32.49 2.53 32.58 2.77 32.04 14.91 28.1 11.79 17.74 23.71 17.28 23.77 13.11 21.56 12.77 21.56 3.48 31.19 0 27.07"></polygon>
+  <g>
+    <polygon class="cls-2" points="24.49 39.38 24.49 20 28.99 14.77 29.24 39.38 24.49 39.38"></polygon>
+    <path class="cls-2" d="M16.03,39.48h-4.85v-13.11s2.43-2.46,2.43-2.46c.37.2,1.93,1.27,2.43,1.7v13.87Z"></path>
+    <polygon class="cls-2" points="18.22 39.38 18.26 25.44 22.93 21.11 22.97 39.38 18.22 39.38"></polygon>
+    <polygon class="cls-2" points="4.35 39.48 4.36 32.86 9.03 28.06 9.1 39.48 4.35 39.48"></polygon>
+  </g>
+</svg></svg></g></g></svg></g><g id="dark-icon"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.dev/svgjs" width="1000" height="1000"><g clip-path="url(#SvgjsClipPath1026)"><rect width="1000" height="1000" fill="#ffffff"></rect><g transform="matrix(17.482517482517483,0,0,17.482517482517483,208.30419580419579,150)"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.dev/svgjs" width="33.37" height="40.04"><svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 33.37 40.04">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        fill: #a7a8af;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0" y1="16.86" x2="32.58" y2="16.86" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#507abd"></stop>
+      <stop offset="1" stop-color="#2f499f"></stop>
+    </linearGradient>
+  <clipPath id="SvgjsClipPath1026"><rect width="1000" height="1000" x="0" y="0" rx="350" ry="350"></rect></clipPath></defs>
+  <polygon class="cls-1" points="0 27.07 11.77 14.9 16.31 17.17 24.02 8.25 20.23 5.01 20.81 4.83 32.49 2.53 32.58 2.77 32.04 14.91 28.1 11.79 17.74 23.71 17.28 23.77 13.11 21.56 12.77 21.56 3.48 31.19 0 27.07"></polygon>
+  <g>
+    <polygon class="cls-2" points="24.49 39.38 24.49 20 28.99 14.77 29.24 39.38 24.49 39.38"></polygon>
+    <path class="cls-2" d="M16.03,39.48h-4.85v-13.11s2.43-2.46,2.43-2.46c.37.2,1.93,1.27,2.43,1.7v13.87Z"></path>
+    <polygon class="cls-2" points="18.22 39.38 18.26 25.44 22.93 21.11 22.97 39.38 18.22 39.38"></polygon>
+    <polygon class="cls-2" points="4.35 39.48 4.36 32.86 9.03 28.06 9.1 39.48 4.35 39.48"></polygon>
+  </g>
+</svg></svg></g></g></svg></g></svg>
